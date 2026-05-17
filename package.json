@@ -1,0 +1,27 @@
+{
+  "name": "ts-learn",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "start": "tsx src/01-basics.ts",
+    "lesson:01": "tsx src/01-basics.ts",
+    "lesson:02": "tsx src/02-objects-arrays.ts",
+    "lesson:03": "tsx src/03-unions-narrowing.ts",
+    "lesson:04": "tsx src/04-generics.ts",
+    "lesson:05": "tsx src/05-classes.ts",
+    "lesson:06": "tsx src/06-modules.ts",
+    "lesson:07": "tsx src/07-tsconfig.ts",
+    "lesson:08": "tsx src/08-task-manager.ts",
+    "task": "tsx src/task-cli.ts",
+    "test": "tsx src/tasks/service.test.ts",
+    "notes:never": "tsx src/never-notes.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
