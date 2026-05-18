@@ -15,6 +15,10 @@
     "lesson:06": "tsx src/06-modules.ts",
     "lesson:07": "tsx src/07-tsconfig.ts",
     "lesson:08": "tsx src/08-task-manager.ts",
+    "lesson:09": "tsx src/09-utility-types.ts",
+    "lesson:10": "tsx src/10-conditional-types.ts",
+    "lesson:11": "tsx src/11-mapped-types.ts",
+    "lesson:12": "tsx src/12-template-literal-types.ts",
     "task": "tsx src/task-cli.ts",
     "test": "tsx src/tasks/service.test.ts",
     "notes:never": "tsx src/never-notes.ts"
