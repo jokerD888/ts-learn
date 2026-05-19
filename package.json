@@ -19,6 +19,10 @@
     "lesson:10": "tsx src/10-conditional-types.ts",
     "lesson:11": "tsx src/11-mapped-types.ts",
     "lesson:12": "tsx src/12-template-literal-types.ts",
+    "lesson:13": "tsx src/13-declaration-merging.ts",
+    "lesson:14": "tsx src/14-decorators.ts",
+    "lesson:15": "tsx src/15-advanced-patterns.ts",
+    "lesson:16": "tsx src/16-api-client.ts",
     "task": "tsx src/task-cli.ts",
     "test": "tsx src/tasks/service.test.ts",
     "notes:never": "tsx src/never-notes.ts"
